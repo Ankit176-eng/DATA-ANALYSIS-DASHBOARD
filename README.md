@@ -42,7 +42,7 @@ The objective of this project is to:
 The **Amazon Sales India Tableau Dashboard** successfully provides a detailed and interactive overview of sales performance across various dimensions such as time, category, and geography. By visualizing the data, this project highlights crucial business insights like top-performing products, high-revenue regions, and seasonal trends. It serves as a valuable tool for stakeholders to make data-driven decisions, optimize sales strategies, and improve overall business efficiency.
 
 
-## 📷 Sample Dashboard View (Optional)
+## 📷 Sample Dashboard View 
 
 screenshot here for visual context:  
 ![Screenshot (9)](https://github.com/user-attachments/assets/c9c404b8-e0ad-49ce-9da0-dc01baac2338)
